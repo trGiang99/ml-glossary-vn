@@ -1,8 +1,8 @@
 .. _reinforcement_learning:
 
-======================
-Reinforcement Learning
-======================
+==============
+Học tăng cường
+==============
 
 In machine learning, supervised is sometimes contrasted with unsupervised learning. This is a useful distinction, but there are some problem domains that have share characteristics with each without fitting exactly in either category. In cases where the algorithm does not have explicit labels but does receive a form of feedback, we are dealing with a third and distinct paradigm of machine learning - reinforcement learning.
 
